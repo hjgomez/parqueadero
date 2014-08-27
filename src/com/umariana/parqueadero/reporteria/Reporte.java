@@ -10,6 +10,6 @@ package com.umariana.parqueadero.reporteria;
  *
  * @author Carlos Arteaga, Francisco Delgado, Ivan Cisneros y Jair Gómez
  */
-public class Reporteria {
+public class Reporte {
     
 }
